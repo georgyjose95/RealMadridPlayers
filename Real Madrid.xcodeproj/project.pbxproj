@@ -1,0 +1,602 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		57FB8BCC2258E64D00A8D652 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57FB8BCB2258E64D00A8D652 /* AppDelegate.swift */; };
+		57FB8BCE2258E64D00A8D652 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57FB8BCD2258E64D00A8D652 /* ViewController.swift */; };
+		57FB8BD12258E64D00A8D652 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8BCF2258E64D00A8D652 /* Main.storyboard */; };
+		57FB8BD42258E64D00A8D652 /* Real_Madrid.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 57FB8BD22258E64D00A8D652 /* Real_Madrid.xcdatamodeld */; };
+		57FB8BD62258E65300A8D652 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8BD52258E65300A8D652 /* Assets.xcassets */; };
+		57FB8BD92258E65300A8D652 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8BD72258E65300A8D652 /* LaunchScreen.storyboard */; };
+		57FB8BE42258E65400A8D652 /* Real_MadridTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57FB8BE32258E65400A8D652 /* Real_MadridTests.swift */; };
+		57FB8BEF2258E65400A8D652 /* Real_MadridUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57FB8BEE2258E65400A8D652 /* Real_MadridUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		57FB8BE02258E65400A8D652 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 57FB8BC02258E64D00A8D652 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 57FB8BC72258E64D00A8D652;
+			remoteInfo = "Real Madrid";
+		};
+		57FB8BEB2258E65400A8D652 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 57FB8BC02258E64D00A8D652 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 57FB8BC72258E64D00A8D652;
+			remoteInfo = "Real Madrid";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		57FB8BC82258E64D00A8D652 /* Real Madrid.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Real Madrid.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		57FB8BCB2258E64D00A8D652 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		57FB8BCD2258E64D00A8D652 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		57FB8BD02258E64D00A8D652 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		57FB8BD32258E64D00A8D652 /* Real_Madrid.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Real_Madrid.xcdatamodel; sourceTree = "<group>"; };
+		57FB8BD52258E65300A8D652 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		57FB8BD82258E65300A8D652 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		57FB8BDA2258E65300A8D652 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		57FB8BDF2258E65400A8D652 /* Real MadridTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Real MadridTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		57FB8BE32258E65400A8D652 /* Real_MadridTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Real_MadridTests.swift; sourceTree = "<group>"; };
+		57FB8BE52258E65400A8D652 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		57FB8BEA2258E65400A8D652 /* Real MadridUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Real MadridUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		57FB8BEE2258E65400A8D652 /* Real_MadridUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Real_MadridUITests.swift; sourceTree = "<group>"; };
+		57FB8BF02258E65400A8D652 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		57FB8BC52258E64D00A8D652 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		57FB8BDC2258E65400A8D652 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		57FB8BE72258E65400A8D652 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		57FB8BBF2258E64D00A8D652 = {
+			isa = PBXGroup;
+			children = (
+				57FB8BCA2258E64D00A8D652 /* Real Madrid */,
+				57FB8BE22258E65400A8D652 /* Real MadridTests */,
+				57FB8BED2258E65400A8D652 /* Real MadridUITests */,
+				57FB8BC92258E64D00A8D652 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		57FB8BC92258E64D00A8D652 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				57FB8BC82258E64D00A8D652 /* Real Madrid.app */,
+				57FB8BDF2258E65400A8D652 /* Real MadridTests.xctest */,
+				57FB8BEA2258E65400A8D652 /* Real MadridUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		57FB8BCA2258E64D00A8D652 /* Real Madrid */ = {
+			isa = PBXGroup;
+			children = (
+				57FB8BCB2258E64D00A8D652 /* AppDelegate.swift */,
+				57FB8BCD2258E64D00A8D652 /* ViewController.swift */,
+				57FB8BCF2258E64D00A8D652 /* Main.storyboard */,
+				57FB8BD52258E65300A8D652 /* Assets.xcassets */,
+				57FB8BD72258E65300A8D652 /* LaunchScreen.storyboard */,
+				57FB8BDA2258E65300A8D652 /* Info.plist */,
+				57FB8BD22258E64D00A8D652 /* Real_Madrid.xcdatamodeld */,
+			);
+			path = "Real Madrid";
+			sourceTree = "<group>";
+		};
+		57FB8BE22258E65400A8D652 /* Real MadridTests */ = {
+			isa = PBXGroup;
+			children = (
+				57FB8BE32258E65400A8D652 /* Real_MadridTests.swift */,
+				57FB8BE52258E65400A8D652 /* Info.plist */,
+			);
+			path = "Real MadridTests";
+			sourceTree = "<group>";
+		};
+		57FB8BED2258E65400A8D652 /* Real MadridUITests */ = {
+			isa = PBXGroup;
+			children = (
+				57FB8BEE2258E65400A8D652 /* Real_MadridUITests.swift */,
+				57FB8BF02258E65400A8D652 /* Info.plist */,
+			);
+			path = "Real MadridUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		57FB8BC72258E64D00A8D652 /* Real Madrid */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 57FB8BF32258E65400A8D652 /* Build configuration list for PBXNativeTarget "Real Madrid" */;
+			buildPhases = (
+				57FB8BC42258E64D00A8D652 /* Sources */,
+				57FB8BC52258E64D00A8D652 /* Frameworks */,
+				57FB8BC62258E64D00A8D652 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Real Madrid";
+			productName = "Real Madrid";
+			productReference = 57FB8BC82258E64D00A8D652 /* Real Madrid.app */;
+			productType = "com.apple.product-type.application";
+		};
+		57FB8BDE2258E65400A8D652 /* Real MadridTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 57FB8BF62258E65400A8D652 /* Build configuration list for PBXNativeTarget "Real MadridTests" */;
+			buildPhases = (
+				57FB8BDB2258E65400A8D652 /* Sources */,
+				57FB8BDC2258E65400A8D652 /* Frameworks */,
+				57FB8BDD2258E65400A8D652 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				57FB8BE12258E65400A8D652 /* PBXTargetDependency */,
+			);
+			name = "Real MadridTests";
+			productName = "Real MadridTests";
+			productReference = 57FB8BDF2258E65400A8D652 /* Real MadridTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		57FB8BE92258E65400A8D652 /* Real MadridUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 57FB8BF92258E65400A8D652 /* Build configuration list for PBXNativeTarget "Real MadridUITests" */;
+			buildPhases = (
+				57FB8BE62258E65400A8D652 /* Sources */,
+				57FB8BE72258E65400A8D652 /* Frameworks */,
+				57FB8BE82258E65400A8D652 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				57FB8BEC2258E65400A8D652 /* PBXTargetDependency */,
+			);
+			name = "Real MadridUITests";
+			productName = "Real MadridUITests";
+			productReference = 57FB8BEA2258E65400A8D652 /* Real MadridUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		57FB8BC02258E64D00A8D652 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1010;
+				LastUpgradeCheck = 1010;
+				ORGANIZATIONNAME = "Georgy Jose";
+				TargetAttributes = {
+					57FB8BC72258E64D00A8D652 = {
+						CreatedOnToolsVersion = 10.1;
+					};
+					57FB8BDE2258E65400A8D652 = {
+						CreatedOnToolsVersion = 10.1;
+						TestTargetID = 57FB8BC72258E64D00A8D652;
+					};
+					57FB8BE92258E65400A8D652 = {
+						CreatedOnToolsVersion = 10.1;
+						TestTargetID = 57FB8BC72258E64D00A8D652;
+					};
+				};
+			};
+			buildConfigurationList = 57FB8BC32258E64D00A8D652 /* Build configuration list for PBXProject "Real Madrid" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 57FB8BBF2258E64D00A8D652;
+			productRefGroup = 57FB8BC92258E64D00A8D652 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				57FB8BC72258E64D00A8D652 /* Real Madrid */,
+				57FB8BDE2258E65400A8D652 /* Real MadridTests */,
+				57FB8BE92258E65400A8D652 /* Real MadridUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		57FB8BC62258E64D00A8D652 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				57FB8BD92258E65300A8D652 /* LaunchScreen.storyboard in Resources */,
+				57FB8BD62258E65300A8D652 /* Assets.xcassets in Resources */,
+				57FB8BD12258E64D00A8D652 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		57FB8BDD2258E65400A8D652 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		57FB8BE82258E65400A8D652 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		57FB8BC42258E64D00A8D652 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				57FB8BD42258E64D00A8D652 /* Real_Madrid.xcdatamodeld in Sources */,
+				57FB8BCE2258E64D00A8D652 /* ViewController.swift in Sources */,
+				57FB8BCC2258E64D00A8D652 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		57FB8BDB2258E65400A8D652 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				57FB8BE42258E65400A8D652 /* Real_MadridTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		57FB8BE62258E65400A8D652 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				57FB8BEF2258E65400A8D652 /* Real_MadridUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		57FB8BE12258E65400A8D652 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 57FB8BC72258E64D00A8D652 /* Real Madrid */;
+			targetProxy = 57FB8BE02258E65400A8D652 /* PBXContainerItemProxy */;
+		};
+		57FB8BEC2258E65400A8D652 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 57FB8BC72258E64D00A8D652 /* Real Madrid */;
+			targetProxy = 57FB8BEB2258E65400A8D652 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		57FB8BCF2258E64D00A8D652 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				57FB8BD02258E64D00A8D652 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		57FB8BD72258E65300A8D652 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				57FB8BD82258E65300A8D652 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		57FB8BF12258E65400A8D652 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		57FB8BF22258E65400A8D652 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		57FB8BF42258E65400A8D652 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Real Madrid/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "GJ.Real-Madrid";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		57FB8BF52258E65400A8D652 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Real Madrid/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "GJ.Real-Madrid";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		57FB8BF72258E65400A8D652 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Real MadridTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "GJ.Real-MadridTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Real Madrid.app/Real Madrid";
+			};
+			name = Debug;
+		};
+		57FB8BF82258E65400A8D652 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Real MadridTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "GJ.Real-MadridTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Real Madrid.app/Real Madrid";
+			};
+			name = Release;
+		};
+		57FB8BFA2258E65400A8D652 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Real MadridUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "GJ.Real-MadridUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Real Madrid";
+			};
+			name = Debug;
+		};
+		57FB8BFB2258E65400A8D652 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Real MadridUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "GJ.Real-MadridUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Real Madrid";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		57FB8BC32258E64D00A8D652 /* Build configuration list for PBXProject "Real Madrid" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				57FB8BF12258E65400A8D652 /* Debug */,
+				57FB8BF22258E65400A8D652 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		57FB8BF32258E65400A8D652 /* Build configuration list for PBXNativeTarget "Real Madrid" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				57FB8BF42258E65400A8D652 /* Debug */,
+				57FB8BF52258E65400A8D652 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		57FB8BF62258E65400A8D652 /* Build configuration list for PBXNativeTarget "Real MadridTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				57FB8BF72258E65400A8D652 /* Debug */,
+				57FB8BF82258E65400A8D652 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		57FB8BF92258E65400A8D652 /* Build configuration list for PBXNativeTarget "Real MadridUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				57FB8BFA2258E65400A8D652 /* Debug */,
+				57FB8BFB2258E65400A8D652 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		57FB8BD22258E64D00A8D652 /* Real_Madrid.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				57FB8BD32258E64D00A8D652 /* Real_Madrid.xcdatamodel */,
+			);
+			currentVersion = 57FB8BD32258E64D00A8D652 /* Real_Madrid.xcdatamodel */;
+			path = Real_Madrid.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 57FB8BC02258E64D00A8D652 /* Project object */;
+}
