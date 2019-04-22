@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Data>
+<player>
+    <name>Keylor Navas</name>
+    <jersey>01</jersey>
+    <position>Goal Keeper</position>
+    <image>keylor.jpg</image>
+    <text>Keylor Antonio Navas Gamboa is a Costa Rican professional footballer who plays as a goalkeeper for Spanish club Real Madrid and the Costa Rica national team. After starting out at Saprissa he moved to Albacete, and then to Levante in La Liga. Navas joined Real Madrid in 2014 for 10 million euros.</text>
+    <url>https://www.realmadrid.com/en/football/squad/keylor-navas</url>
+    <dob>15/12/1986</dob>
+    <nationality>Croatia</nationality>
+    <height>1.85</height>
+    <weight>79</weight>
+    <pic>navasimage.jpg</pic>
+</player>
+<player>
+    <name>Fransico Casilla</name>
+    <jersey>13</jersey>
+    <position>Goal Keeper</position>
+    <image>casilla.jpg</image>
+    <text>Francisco Casilla Cortes is a Spanish professional footballer who plays for Real Madrid as a goalkeeper. He started playing for Real Madrid, but only represented the reserve teams in the early stage of his career.</text>
+    <url>https://www.realmadrid.com/en/football/squad/francisco--casilla-cortes-</url>
+    <dob>02/10/1986</dob>
+    <nationality>Spain</nationality>
+    <height>1.90</height>
+    <weight>86</weight>
+    <pic>casillaimage.jpg</pic>
+</player>
+<player>
+        <name>Thibaut Courtios</name>
+        <jersey>25</jersey>
+        <position>Goal Keeper</position>
+        <image>courtois.jpg</image>
+        <url>https://www.realmadrid.com/en/football/squad/thibaut-courtois</url>
+        <text>Thibaut Nicolas Marc Courtois is a Belgian professional footballer who plays as a goalkeeper for Spanish club Real Madrid and the Belgium national team. Courtois graduated through the youth system of Genk, and aged 18, he played a key role in the team's Belgian Pro League victory.</text>
+        <dob>11/05/1992</dob>
+        <nationality>Belgium</nationality>
+        <height>1.99</height>
+        <weight>96</weight>
+        <pic>courtoisimage.jpg</pic>
+</player>
+<player>
+    <name>Luca Fernandez</name>
+    <jersey>30</jersey>
+    <position>Goal Keeper</position>
+    <image>lucazidane.jpg</image><icon>keyloricon</icon>
+    <text>Luca Zinedine Zidane Fernández is a French professional footballer who plays as a goalkeeper for Spanish club Real Madrid.</text>
+    <url>https://www.realmadrid.com/en/football/squad/luca-fernandez</url>
+    <dob>13/05/1998</dob>
+    <nationality>France</nationality>
+    <height>1.83</height>
+    <weight>77.5</weight>
+    <pic>lucazidaneimage.jpg</pic>
+</player>
+<player>
+    <name>Daniel Carvajal</name>
+    <jersey>02</jersey>
+    <position>Defender</position>
+    <image>carvajal.jpg</image>
+    <text>Daniel Carvajal Ramos is a Spanish professional footballer who plays as a right back for Real Madrid and the Spanish national team.</text>
+    <url>https://www.realmadrid.com/en/football/squad/daniel-carvajal-ramos</url>
+    <dob>11/01/1992</dob>
+    <nationality>Spain</nationality>
+    <height>1.73</height>
+    <weight>73.5</weight>
+    <pic>carvajalimage.jpg</pic>
+    </player>
+    <player>
+        <name>Jesus Vallejo</name>
+        <jersey>03</jersey>
+        <position>Defender</position>
+        <image>vallejo.jpg</image>
+        <text>Jesús Vallejo Lázaro is a Spanish professional footballer who plays for Real Madrid as a central defender. </text>
+        <url>https://www.realmadrid.com/en/football/squad/jesus-vallejo-lazaro</url>
+        <dob>05/01/1997</dob>
+        <nationality>Spain</nationality>
+        <height>1.84</height>
+        <weight>79</weight>
+        <pic>jesusimage.jpg</pic>
+    </player>
+    <player>
+        <name>Sergio Ramos</name>
+        <jersey>04</jersey>
+        <position>Defender</position>
+        <image>ramos.jpg</image>
+        <text>Sergio Ramos García is a Spanish professional footballer who plays for and captains both Real Madrid and the Spain national team as a centre back. He can also play as a right back. After emerging through Sevilla's youth academy, Ramos moved to Madrid in the summer of 2005.</text>
+        <url>https://www.realmadrid.com/en/football/squad/sergio-ramos-garcia</url>
+        <dob>30/03/1986</dob>
+        <nationality>Spain</nationality>
+        <height>1.84</height>
+        <weight>82.2</weight>
+        <pic>ramosimage.jpg</pic>
+    </player>
+    <player>
+        <name>Raphael Varane</name>
+        <jersey>05</jersey>
+        <position>Defender</position>
+        <image>varane.jpg</image>
+        <text>Raphaël Xavier Varane is a French professional footballer who plays as a centre-back for Spanish club Real Madrid and the France national team. He previously played for French club Lens and, ahead of the 2010–11 season, began training with the senior team and appeared on the bench in several league matches.</text>
+        <url>https://www.realmadrid.com/en/football/squad/raphael-varane</url>
+        <dob>25/04/1993</dob>
+        <nationality>France</nationality>
+        <height>1.91</height>
+        <weight>81.2</weight>
+        <pic>varaneimage.jpg</pic>
+    </player>
+    <player>
+        <name>Jose Iglesias</name>
+        <jersey>06</jersey>
+        <position>Defender</position>
+        <image>nacho.jpg</image>
+        <text>José Ignacio Fernández Iglesias, commonly known as Nacho, is a Spanish professional footballer who plays for Real Madrid mainly as a central defender but also as a right or left back</text>
+        <url>https://www.realmadrid.com/en/football/squad/jose-i-fernandez-iglesias</url>
+        <dob>18/01/1990</dob>
+        <nationality>Spain</nationality>
+        <height>1.80</height>
+        <weight>76.3</weight>
+        <pic>nachoimage.jpg</pic>
+    </player>
+    <player>
+        <name>Marcelo Silva</name>
+        <jersey>12</jersey>
+        <position>Defender</position>
+        <image>marcelo.jpg</image>
+        <text>Marcelo Vieira da Silva Júnior, known as Marcelo, is a Brazilian professional footballer for Spanish club Real Madrid and the Brazil national team. He plays mainly at left back but can also operate as a left winger.</text>
+        <url>https://www.realmadrid.com/en/football/squad/marcelo-vieira-da-silva</url>
+        <dob>12/05/1988</dob>
+        <nationality>Brazil</nationality>
+        <height>1.74</height>
+        <weight>80</weight>
+        <pic>marceloimage.jpg</pic>
+    </player>
+    <player>
+        <name>Alvaro Odriozola</name>
+        <jersey>19</jersey>
+        <position>Defender</position>
+        <image>odriozola.jpg</image>
+        <text>Álvaro Odriozola Arzallus is a Spanish professional footballer who plays for Real Madrid and Spain. Mainly a right back, he can also play as a winger.</text>
+        <url>https://www.realmadrid.com/en/football/squad/alvaro-odriozola</url>
+        <dob>14/12/1995</dob>
+        <nationality>Spain</nationality>
+        <height>1.76</height>
+        <weight>66</weight>
+        <pic>odriozolaimage.jpg</pic>
+    </player>
+    <player>
+        <name>Sergio Reguilon</name>
+        <jersey>23</jersey>
+        <position>Defender</position>
+        <image>reguilon.jpg</image>
+        <text>Sergio Reguilón Rodríguez is a Spanish professional footballer who plays as a left back for Real Madrid.</text>
+        <url>https://www.realmadrid.com/en/football/squad/sergio-reguilon-rodriguez--</url>
+        <dob>16/12/1996</dob>
+        <nationality>Spain</nationality>
+        <height>1.80</height>
+        <weight>67</weight>
+        <pic>reguilonimage.jpg</pic>
+    </player>
+    <player>
+        <name>Toni Kross</name>
+        <jersey>08</jersey>
+        <position>MidFielder</position>
+        <image>kroos.jpg</image>
+        <text>Toni Kroos is a German professional footballer who plays as a midfielder for Spanish club Real Madrid and the German national team.</text>
+        <url>https://www.realmadrid.com/en/football/squad/toni-kroos</url>
+        <dob>04/01/1990</dob>
+        <nationality>Germany</nationality>
+        <height>1.83</height>
+        <weight>76</weight>
+        <pic>toniimage.jpg</pic>
+    </player>
+    <player>
+        <name>Luca Modric</name>
+        <jersey>10</jersey>
+        <position>MidFielder</position>
+        <image>lukamodric.jpg</image>
+        <text>Luka Modrić is a Croatian professional footballer who plays as a midfielder for Spanish club Real Madrid and is the captain of the Croatia national team. Modrić plays mainly as a central midfielder but can also play as an attacking midfielder or as a defensive midfielder, usually deployed as a deep-lying playmaker.</text>
+        <url>https://www.realmadrid.com/en/football/squad/luka-modric</url>
+        <dob>09/09/1985</dob>
+        <nationality>Croatia</nationality>
+        <height>1.72</height>
+        <weight>66.2</weight>
+        <pic>modricimage.jpg</pic>
+    </player>
+    <player>
+        <name>H Casemiro</name>
+        <jersey>14</jersey>
+        <position>MidFielder</position>
+        <image>casimiro.jpg</image>
+        <text>Carlos Henrique Casimiro, known as Casemiro, is a Brazilian footballer who plays as a defensive midfielder for Spanish club Real Madrid and the Brazil national team. Formed at São Paulo, where he scored 11 goals in 112 official games, he moved to Real Madrid in 2013, and also spent a season on loan at Porto</text>
+        <url>https://www.realmadrid.com/en/football/squad/carlos-henrique-casemiro</url>
+        <dob>23/02/1992</dob>
+        <nationality>Brazil</nationality>
+        <height>1.85</height>
+        <weight>84</weight>
+        <pic>casemiroimage.jpg</pic>
+    </player>
+    <player>
+        <name>Valverde Dipetta</name>
+        <jersey>15</jersey>
+        <position>MidFielder</position>
+        <image>valverde.jpg</image>
+        <text>Federico Santiago Valverde Dipetta is a Uruguayan professional footballer who plays for Spanish club Real Madrid and the Uruguay national team as a central midfielder</text>
+        <url>https://www.realmadrid.com/en/football/squad/federico-santiago-valverde-dipetta</url>
+        <dob>22/07/1998</dob>
+        <nationality>Uruguay</nationality>
+        <height>1.81</height>
+        <weight>73.8</weight>
+        <pic>valverdeimage.jpg</pic>
+    </player>
+    <player>
+        <name>Marcos Llorente</name>
+        <jersey>18</jersey>
+        <position>MidFielder</position>
+        <image>llorente.jpg</image>
+        <text>Marcos Llorente Moreno is a Spanish professional footballer who plays as a central or defensive midfielder for Real Madrid.</text>
+        <url>https://www.realmadrid.com/en/football/squad/marcos-llorente-moreno</url>
+        <dob>30/01/1995</dob>
+        <nationality>Spain</nationality>
+        <height>1.84</height>
+        <weight>73</weight>
+        <pic>llorenteimage.jpg</pic>
+    </player>
+    <player>
+        <name>Marco Asensio</name>
+        <jersey>20</jersey>
+        <position>MidFielder</position>
+        <image>marcusasensio.jpg</image>
+        <text>Marco Asensio Willemsen is a Spanish professional footballer who plays as a winger and attacking midfielder for Real Madrid and the Spain national team. After starting out at Mallorca, he signed with Real Madrid in November 2014, being consecutively loaned to his former club as well as Espanyol.</text>
+        <url>https://www.realmadrid.com/en/football/squad/marco-asensio-willemsen</url>
+        <dob>21/01/1996</dob>
+        <nationality>Spain</nationality>
+        <height>1.82</height>
+        <weight>76</weight>
+        <pic>asensioimage.jpg</pic>
+    </player>
+    <player>
+        <name>Francisco Roman</name>
+        <jersey>22</jersey>
+        <position>MidFielder</position>
+        <image>isco.jpg</image>
+        <text>Francisco Román Alarcón Suárez, commonly known as Isco, is a Spanish professional footballer who plays as an attacking midfielder for Real Madrid and the Spanish national team. He is often described as one of the best attacking midfielders in the world. </text>
+        <url>https://www.realmadrid.com/en/football/squad/francisco-roman--alarcon</url>
+        <dob>21/04/1992</dob>
+        <nationality>Spain</nationality>
+        <height>1.76</height>
+        <weight>79</weight>
+        <pic>iscoimage.jpg</pic>
+    </player>
+    <player>
+        <name>Daniel Ceballos</name>
+        <jersey>24</jersey>
+        <position>MidFielder</position>
+        <image>ceballos.jpg</image>
+        <text>Daniel Dani Ceballos Fernández is a Spanish professional footballer who plays for Real Madrid as a central midfielder.</text>
+        <url>https://www.realmadrid.com/en/football/squad/daniel-ceballos-fernandez</url>
+        <dob>07/08/1996</dob>
+        <nationality>Spain</nationality>
+        <height>1.79</height>
+        <weight>70.5</weight>
+        <pic>ceballosimage.jpg</pic>
+    </player>
+    <player>
+        <name>Mariano Diaz</name>
+        <jersey>07</jersey>
+        <position>Forward</position>
+        <image>mariano.jpg</image>
+        <text>Mariano Díaz Mejía, simply known as Mariano, is a footballer who plays for Spanish club Real Madrid as a striker.</text>
+        <url>https://www.realmadrid.com/en/football/squad/mariano-diaz-mejia</url>
+        <dob>01/08/1993</dob>
+        <nationality>Spain</nationality>
+        <height>1.80</height>
+        <weight>76</weight>
+        <pic>diazimage.jpg</pic>
+    </player>
+    <player>
+        <name>Karim Benzema</name>
+        <jersey>09</jersey>
+        <position>Forward</position>
+        <image>benzema.jpg</image>
+        <text>Karim Mostafa Benzema is a French professional footballer who plays as a striker for Spanish club Real Madrid and the France national team. He has been described as an immensely talented striker, who is strong and powerful and a potent finisher from inside the box</text>
+        <url>https://www.realmadrid.com/en/football/squad/karim-benzema</url>
+        <dob>19/12/1987</dob>
+        <nationality>France</nationality>
+        <height>1.85</height>
+        <weight>81.2</weight>
+        <pic>benzemaimage.jpg</pic>
+    </player>
+    <player>
+        <name>Gareth Bale</name>
+        <jersey>11</jersey>
+        <position>Forward</position>
+        <image>garethbale.jpg</image>
+        <text>Gareth Frank Bale is a Welsh professional footballer who plays as a winger for Spanish club Real Madrid and the Wales national team.</text>
+        <url>https://www.realmadrid.com/en/football/squad/gareth-bale</url>
+        <dob>16/07/1989</dob>
+        <nationality>Wales</nationality>
+        <height>1.85</height>
+        <weight>81.8</weight>
+        <pic>baleimage.jpg</pic>
+    </player>
+    <player>
+        <name>Lucas Vazquez </name>
+        <jersey>17</jersey>
+        <position>Forward</position>
+        <image>lucaz.jpg</image>
+        <text>Lucas Vázquez Iglesias is a Spanish professional footballer who plays for Real Madrid and the Spain national team as a right winger. Formed at Real Madrid, he made his first-team debut in 2015 after a season on loan at Espanyol.</text>
+        <url>https://www.realmadrid.com/en/football/squad/lucas-vazquez-iglesias-</url>
+        <dob>01/07/1991</dob>
+        <nationality>Spain</nationality>
+        <height>1.73</height>
+        <weight>70.5</weight>
+        <pic>vazquzimage.jpg</pic>
+    </player>
+    <player>
+        <name>Vinicius Junior</name>
+        <jersey>28</jersey>
+        <position>Forward</position>
+        <image>vinicius.jpg</image>
+        <text>Vinícius José Paixão de Oliveira Júnior, commonly known as Vinícius Júnior or Vinícius Jr, is a Brazilian professional footballer who plays as a forward for Spanish club Real Madrid. On 23 May 2017, at the age of 16, Vinícius was sold by Flamengo to Real Madrid, effective after his 18th birthday.</text>
+        <url>https://www.realmadrid.com/en/football/squad/vinicius-paixao-de-oliveira-junior-</url>
+        <dob>12/07/2000</dob>
+        <nationality>Brazil</nationality>
+        <height>1.76</height>
+        <weight>73</weight>
+        <pic>viniciusimage.jpg</pic>
+    </player>
+</Data>

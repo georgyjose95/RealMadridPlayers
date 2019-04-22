@@ -7,14 +7,45 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		57D6A566225A4773007549DB /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57D6A565225A4773007549DB /* SearchViewController.swift */; };
+		57DB2BBD225B6E8200A107B6 /* reallogo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57DB2BBC225B6E8200A107B6 /* reallogo.jpg */; };
+		57DB2BC1225B7FBF00A107B6 /* marcusasensio.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57DB2BC0225B7FBF00A107B6 /* marcusasensio.jpg */; };
 		57FB8BCC2258E64D00A8D652 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57FB8BCB2258E64D00A8D652 /* AppDelegate.swift */; };
-		57FB8BCE2258E64D00A8D652 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57FB8BCD2258E64D00A8D652 /* ViewController.swift */; };
 		57FB8BD12258E64D00A8D652 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8BCF2258E64D00A8D652 /* Main.storyboard */; };
 		57FB8BD42258E64D00A8D652 /* Real_Madrid.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 57FB8BD22258E64D00A8D652 /* Real_Madrid.xcdatamodeld */; };
 		57FB8BD62258E65300A8D652 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8BD52258E65300A8D652 /* Assets.xcassets */; };
 		57FB8BD92258E65300A8D652 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8BD72258E65300A8D652 /* LaunchScreen.storyboard */; };
 		57FB8BE42258E65400A8D652 /* Real_MadridTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57FB8BE32258E65400A8D652 /* Real_MadridTests.swift */; };
 		57FB8BEF2258E65400A8D652 /* Real_MadridUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57FB8BEE2258E65400A8D652 /* Real_MadridUITests.swift */; };
+		57FB8BFD2258E9DC00A8D652 /* players.xml in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8BFC2258E9DB00A8D652 /* players.xml */; };
+		57FB8C032258F1CF00A8D652 /* PlayerTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57FB8C022258F1CF00A8D652 /* PlayerTableViewController.swift */; };
+		57FB8C302259093100A8D652 /* PlayerData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57FB8C2F2259093000A8D652 /* PlayerData.swift */; };
+		57FB8C60225918F900A8D652 /* nacho.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8C31225918F000A8D652 /* nacho.jpg */; };
+		57FB8C61225918F900A8D652 /* lukamodric.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8C32225918F000A8D652 /* lukamodric.jpg */; };
+		57FB8C62225918F900A8D652 /* ramos.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8C33225918F000A8D652 /* ramos.jpg */; };
+		57FB8C66225918F900A8D652 /* mariano.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8C37225918F100A8D652 /* mariano.jpg */; };
+		57FB8C67225918F900A8D652 /* lucazidane.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8C38225918F100A8D652 /* lucazidane.jpg */; };
+		57FB8C68225918F900A8D652 /* kroos.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8C39225918F100A8D652 /* kroos.jpg */; };
+		57FB8C69225918F900A8D652 /* keylor.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8C3A225918F100A8D652 /* keylor.jpg */; };
+		57FB8C6B225918F900A8D652 /* benzema.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8C3C225918F200A8D652 /* benzema.jpg */; };
+		57FB8C6C225918F900A8D652 /* vinicius.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8C3D225918F200A8D652 /* vinicius.jpg */; };
+		57FB8C6E225918F900A8D652 /* vallejo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8C3F225918F200A8D652 /* vallejo.jpg */; };
+		57FB8C70225918F900A8D652 /* varane.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8C41225918F200A8D652 /* varane.jpg */; };
+		57FB8C74225918F900A8D652 /* isco.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8C45225918F300A8D652 /* isco.jpg */; };
+		57FB8C75225918F900A8D652 /* garethbale.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8C46225918F300A8D652 /* garethbale.jpg */; };
+		57FB8C76225918F900A8D652 /* casilla.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8C47225918F300A8D652 /* casilla.jpg */; };
+		57FB8C77225918F900A8D652 /* llorente.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8C48225918F400A8D652 /* llorente.jpg */; };
+		57FB8C78225918F900A8D652 /* ceballos.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8C49225918F400A8D652 /* ceballos.jpg */; };
+		57FB8C79225918F900A8D652 /* marcelo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8C4A225918F400A8D652 /* marcelo.jpg */; };
+		57FB8C7B225918F900A8D652 /* casimiro.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8C4C225918F400A8D652 /* casimiro.jpg */; };
+		57FB8C7C225918F900A8D652 /* odriozola.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8C4D225918F500A8D652 /* odriozola.jpg */; };
+		57FB8C7E225918F900A8D652 /* reguilon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8C4F225918F500A8D652 /* reguilon.jpg */; };
+		57FB8C7F225918F900A8D652 /* valverde.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8C50225918F500A8D652 /* valverde.jpg */; };
+		57FB8C86225918F900A8D652 /* lucaz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8C57225918F700A8D652 /* lucaz.jpg */; };
+		57FB8C8C225918F900A8D652 /* carvajal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8C5D225918F800A8D652 /* carvajal.jpg */; };
+		57FB8C902259193500A8D652 /* baleimage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8C8F2259193400A8D652 /* baleimage.jpg */; };
+		57FB8C922259196C00A8D652 /* courtois.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57FB8C912259196B00A8D652 /* courtois.jpg */; };
+		57FB8C942259232A00A8D652 /* PlayerAddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57FB8C932259232A00A8D652 /* PlayerAddViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,9 +66,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		57D6A565225A4773007549DB /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
+		57DB2BBC225B6E8200A107B6 /* reallogo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = reallogo.jpg; sourceTree = "<group>"; };
+		57DB2BC0225B7FBF00A107B6 /* marcusasensio.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = marcusasensio.jpg; sourceTree = "<group>"; };
 		57FB8BC82258E64D00A8D652 /* Real Madrid.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Real Madrid.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		57FB8BCB2258E64D00A8D652 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		57FB8BCD2258E64D00A8D652 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		57FB8BD02258E64D00A8D652 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		57FB8BD32258E64D00A8D652 /* Real_Madrid.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Real_Madrid.xcdatamodel; sourceTree = "<group>"; };
 		57FB8BD52258E65300A8D652 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -45,10 +78,39 @@
 		57FB8BDA2258E65300A8D652 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		57FB8BDF2258E65400A8D652 /* Real MadridTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Real MadridTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		57FB8BE32258E65400A8D652 /* Real_MadridTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Real_MadridTests.swift; sourceTree = "<group>"; };
-		57FB8BE52258E65400A8D652 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		57FB8BE52258E65400A8D652 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = "Real MadridTests/Info.plist"; sourceTree = SOURCE_ROOT; };
 		57FB8BEA2258E65400A8D652 /* Real MadridUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Real MadridUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		57FB8BEE2258E65400A8D652 /* Real_MadridUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Real_MadridUITests.swift; sourceTree = "<group>"; };
 		57FB8BF02258E65400A8D652 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		57FB8BFC2258E9DB00A8D652 /* players.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = players.xml; sourceTree = "<group>"; };
+		57FB8C022258F1CF00A8D652 /* PlayerTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerTableViewController.swift; sourceTree = "<group>"; };
+		57FB8C2F2259093000A8D652 /* PlayerData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerData.swift; sourceTree = "<group>"; };
+		57FB8C31225918F000A8D652 /* nacho.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nacho.jpg; sourceTree = "<group>"; };
+		57FB8C32225918F000A8D652 /* lukamodric.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lukamodric.jpg; sourceTree = "<group>"; };
+		57FB8C33225918F000A8D652 /* ramos.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ramos.jpg; sourceTree = "<group>"; };
+		57FB8C37225918F100A8D652 /* mariano.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mariano.jpg; sourceTree = "<group>"; };
+		57FB8C38225918F100A8D652 /* lucazidane.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lucazidane.jpg; sourceTree = "<group>"; };
+		57FB8C39225918F100A8D652 /* kroos.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kroos.jpg; sourceTree = "<group>"; };
+		57FB8C3A225918F100A8D652 /* keylor.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = keylor.jpg; sourceTree = "<group>"; };
+		57FB8C3C225918F200A8D652 /* benzema.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = benzema.jpg; sourceTree = "<group>"; };
+		57FB8C3D225918F200A8D652 /* vinicius.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = vinicius.jpg; sourceTree = "<group>"; };
+		57FB8C3F225918F200A8D652 /* vallejo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = vallejo.jpg; sourceTree = "<group>"; };
+		57FB8C41225918F200A8D652 /* varane.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = varane.jpg; sourceTree = "<group>"; };
+		57FB8C45225918F300A8D652 /* isco.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = isco.jpg; sourceTree = "<group>"; };
+		57FB8C46225918F300A8D652 /* garethbale.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = garethbale.jpg; sourceTree = "<group>"; };
+		57FB8C47225918F300A8D652 /* casilla.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = casilla.jpg; sourceTree = "<group>"; };
+		57FB8C48225918F400A8D652 /* llorente.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = llorente.jpg; sourceTree = "<group>"; };
+		57FB8C49225918F400A8D652 /* ceballos.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ceballos.jpg; sourceTree = "<group>"; };
+		57FB8C4A225918F400A8D652 /* marcelo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = marcelo.jpg; sourceTree = "<group>"; };
+		57FB8C4C225918F400A8D652 /* casimiro.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = casimiro.jpg; sourceTree = "<group>"; };
+		57FB8C4D225918F500A8D652 /* odriozola.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = odriozola.jpg; sourceTree = "<group>"; };
+		57FB8C4F225918F500A8D652 /* reguilon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = reguilon.jpg; sourceTree = "<group>"; };
+		57FB8C50225918F500A8D652 /* valverde.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = valverde.jpg; sourceTree = "<group>"; };
+		57FB8C57225918F700A8D652 /* lucaz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lucaz.jpg; sourceTree = "<group>"; };
+		57FB8C5D225918F800A8D652 /* carvajal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = carvajal.jpg; sourceTree = "<group>"; };
+		57FB8C8F2259193400A8D652 /* baleimage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = baleimage.jpg; sourceTree = "<group>"; };
+		57FB8C912259196B00A8D652 /* courtois.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = courtois.jpg; sourceTree = "<group>"; };
+		57FB8C932259232A00A8D652 /* PlayerAddViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerAddViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,12 +162,44 @@
 			isa = PBXGroup;
 			children = (
 				57FB8BCB2258E64D00A8D652 /* AppDelegate.swift */,
-				57FB8BCD2258E64D00A8D652 /* ViewController.swift */,
+				57FB8C3C225918F200A8D652 /* benzema.jpg */,
+				57FB8C5D225918F800A8D652 /* carvajal.jpg */,
+				57FB8C47225918F300A8D652 /* casilla.jpg */,
+				57FB8C4C225918F400A8D652 /* casimiro.jpg */,
+				57FB8C49225918F400A8D652 /* ceballos.jpg */,
+				57FB8C46225918F300A8D652 /* garethbale.jpg */,
+				57FB8C45225918F300A8D652 /* isco.jpg */,
+				57FB8C3A225918F100A8D652 /* keylor.jpg */,
+				57DB2BBC225B6E8200A107B6 /* reallogo.jpg */,
+				57FB8C39225918F100A8D652 /* kroos.jpg */,
+				57FB8C48225918F400A8D652 /* llorente.jpg */,
+				57FB8C912259196B00A8D652 /* courtois.jpg */,
+				57DB2BC0225B7FBF00A107B6 /* marcusasensio.jpg */,
+				57FB8C57225918F700A8D652 /* lucaz.jpg */,
+				57FB8C38225918F100A8D652 /* lucazidane.jpg */,
+				57FB8C32225918F000A8D652 /* lukamodric.jpg */,
+				57FB8C8F2259193400A8D652 /* baleimage.jpg */,
+				57FB8C4A225918F400A8D652 /* marcelo.jpg */,
+				57FB8C37225918F100A8D652 /* mariano.jpg */,
+				57FB8C31225918F000A8D652 /* nacho.jpg */,
+				57FB8C4D225918F500A8D652 /* odriozola.jpg */,
+				57FB8C33225918F000A8D652 /* ramos.jpg */,
+				57FB8C4F225918F500A8D652 /* reguilon.jpg */,
+				57FB8C3F225918F200A8D652 /* vallejo.jpg */,
+				57FB8C50225918F500A8D652 /* valverde.jpg */,
+				57FB8C41225918F200A8D652 /* varane.jpg */,
+				57FB8C3D225918F200A8D652 /* vinicius.jpg */,
+				57FB8C2F2259093000A8D652 /* PlayerData.swift */,
+				57FB8C022258F1CF00A8D652 /* PlayerTableViewController.swift */,
+				57FB8BFC2258E9DB00A8D652 /* players.xml */,
 				57FB8BCF2258E64D00A8D652 /* Main.storyboard */,
+				57D6A565225A4773007549DB /* SearchViewController.swift */,
+				57FB8C932259232A00A8D652 /* PlayerAddViewController.swift */,
 				57FB8BD52258E65300A8D652 /* Assets.xcassets */,
 				57FB8BD72258E65300A8D652 /* LaunchScreen.storyboard */,
 				57FB8BDA2258E65300A8D652 /* Info.plist */,
 				57FB8BD22258E64D00A8D652 /* Real_Madrid.xcdatamodeld */,
+				57FB8BE52258E65400A8D652 /* Info.plist */,
 			);
 			path = "Real Madrid";
 			sourceTree = "<group>";
@@ -114,7 +208,6 @@
 			isa = PBXGroup;
 			children = (
 				57FB8BE32258E65400A8D652 /* Real_MadridTests.swift */,
-				57FB8BE52258E65400A8D652 /* Info.plist */,
 			);
 			path = "Real MadridTests";
 			sourceTree = "<group>";
@@ -232,9 +325,37 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				57FB8C69225918F900A8D652 /* keylor.jpg in Resources */,
+				57FB8C77225918F900A8D652 /* llorente.jpg in Resources */,
 				57FB8BD92258E65300A8D652 /* LaunchScreen.storyboard in Resources */,
 				57FB8BD62258E65300A8D652 /* Assets.xcassets in Resources */,
+				57FB8C7B225918F900A8D652 /* casimiro.jpg in Resources */,
+				57FB8C6C225918F900A8D652 /* vinicius.jpg in Resources */,
+				57FB8C67225918F900A8D652 /* lucazidane.jpg in Resources */,
+				57FB8C78225918F900A8D652 /* ceballos.jpg in Resources */,
+				57FB8C902259193500A8D652 /* baleimage.jpg in Resources */,
+				57FB8C62225918F900A8D652 /* ramos.jpg in Resources */,
+				57FB8C922259196C00A8D652 /* courtois.jpg in Resources */,
+				57FB8C8C225918F900A8D652 /* carvajal.jpg in Resources */,
+				57FB8C61225918F900A8D652 /* lukamodric.jpg in Resources */,
+				57FB8BFD2258E9DC00A8D652 /* players.xml in Resources */,
+				57FB8C66225918F900A8D652 /* mariano.jpg in Resources */,
+				57FB8C60225918F900A8D652 /* nacho.jpg in Resources */,
+				57FB8C75225918F900A8D652 /* garethbale.jpg in Resources */,
+				57FB8C7F225918F900A8D652 /* valverde.jpg in Resources */,
+				57FB8C6B225918F900A8D652 /* benzema.jpg in Resources */,
+				57FB8C79225918F900A8D652 /* marcelo.jpg in Resources */,
+				57FB8C7E225918F900A8D652 /* reguilon.jpg in Resources */,
+				57FB8C6E225918F900A8D652 /* vallejo.jpg in Resources */,
+				57FB8C7C225918F900A8D652 /* odriozola.jpg in Resources */,
+				57FB8C74225918F900A8D652 /* isco.jpg in Resources */,
+				57FB8C86225918F900A8D652 /* lucaz.jpg in Resources */,
+				57FB8C68225918F900A8D652 /* kroos.jpg in Resources */,
+				57DB2BBD225B6E8200A107B6 /* reallogo.jpg in Resources */,
+				57FB8C76225918F900A8D652 /* casilla.jpg in Resources */,
+				57DB2BC1225B7FBF00A107B6 /* marcusasensio.jpg in Resources */,
 				57FB8BD12258E64D00A8D652 /* Main.storyboard in Resources */,
+				57FB8C70225918F900A8D652 /* varane.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,9 +380,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				57D6A566225A4773007549DB /* SearchViewController.swift in Sources */,
+				57FB8C302259093100A8D652 /* PlayerData.swift in Sources */,
 				57FB8BD42258E64D00A8D652 /* Real_Madrid.xcdatamodeld in Sources */,
-				57FB8BCE2258E64D00A8D652 /* ViewController.swift in Sources */,
 				57FB8BCC2258E64D00A8D652 /* AppDelegate.swift in Sources */,
+				57FB8C032258F1CF00A8D652 /* PlayerTableViewController.swift in Sources */,
+				57FB8C942259232A00A8D652 /* PlayerAddViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
